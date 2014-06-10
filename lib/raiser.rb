@@ -1,3 +1,5 @@
+require "raiser/version"
+
 module Raiser
-  raise "Oh Noes!"
+  raise 'oh noes!'
 end
